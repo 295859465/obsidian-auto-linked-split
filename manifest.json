@@ -1,0 +1,10 @@
+{
+	"id": "auto-linked-split",
+	"name": "Auto Linked Split",
+	"version": "0.0.1",
+	"minAppVersion": "1.4.0",
+	"description": "垂直左右分屏时，两个标签自动设置为关联视图，互相联动",
+	"author": "",
+	"authorUrl": "",
+	"isDesktopOnly": true
+}
